@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Satwinder Singh
 
-<!--
-**satwinder-android/satwinder-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Android Developer with 5+ years of experience building scalable and high-performance mobile applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+- 📱 30+ Apps Live on Play Store
+- 🚀 300+ Projects Delivered
+- 💡 Strong in Clean Architecture & MVVM
+- ⚡ Focused on performance & scalable apps
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Kotlin, Java  
+- **Architecture:** MVVM, Clean Architecture  
+- **UI:** XML, Jetpack Compose  
+- **Tools:** Android Studio, Git  
+- **Libraries:** Retrofit, Room, Coil, Glide  
+- **Backend:** Firebase (Auth, Firestore, Analytics)  
+- **Others:** Coroutines, Flow, LiveData  
+
+---
+
+## 🔥 Featured Projects
+- 📱 Depth Wallpaper (AI based wallpaper app)
+- 🔐 VPN App (Secure connection app)
+- 💬 Chat App (Realtime messaging with Firebase)
+- 🎨 Live Wallpaper & Clock App
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=satwinder-android&show_icons=true)
+
+---
+
+## 📬 Contact Me
+- 📧 Email: satwindersingh998899@gmail.com
+- 💼 LinkedIn: 
+- 🌐 Portfolio:
+
+---
+
+⭐ *Always building, always learning.*
