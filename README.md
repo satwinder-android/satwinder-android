@@ -39,8 +39,8 @@
 
 ## 📬 Contact Me
 - 📧 Email: satwindersingh998899@gmail.com
-- 💼 LinkedIn: 
-- 🌐 Portfolio:
+- 💼 LinkedIn: https://satwinder-android.github.io/satwinder-portfolio/
+- 🌐 Portfolio: https://www.linkedin.com/in/satwinder-singh-89b360263
 
 ---
 
